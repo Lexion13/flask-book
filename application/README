@@ -1,0 +1,3 @@
+#first create db command
+python manage.py init_db
+
